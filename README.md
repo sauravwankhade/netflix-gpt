@@ -19,6 +19,19 @@
 -Add hardcoded values to the constant file
 
 
+-Get data from TMDB now playing movie list api
+-Custom hook for Now playing movies
+-create Movieslice
+-Update store with movies data
+-Planning for MainContainer And Secondary Container 
+-Fetch Data for Trailer Video
+-Update Store With Trailer Video Data
+-Embeded youtube and make it auto play and mute
+-Tailwind CLasses to make main container look awesome
+-Build Secondary Component
+-Build Movie List
+-Build Movie Card
+
 -Create Sign User Account
 -implement sign in user api 
 -Get data from tmdb now playing 
